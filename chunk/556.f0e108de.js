@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_snx_v3_ultrasound_homes=globalThis.webpackChunk_snx_v3_ultrasound_homes||[]).push([[556],{556:(s,a,u)=>{u.d(a,{take:()=>_.q,takeUntil:()=>e.R});var _=u(56718),e=u(20114)}}]);
