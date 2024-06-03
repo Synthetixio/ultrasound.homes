@@ -1,1 +1,0 @@
-(globalThis.webpackChunk_snx_v3_ultrasound_homes=globalThis.webpackChunk_snx_v3_ultrasound_homes||[]).push([[5477,3779],{75477:()=>{}}]);
