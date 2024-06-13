@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk_snx_v3_ultrasound=globalThis.webpackChunk_snx_v3_ultrasound||[]).push([[3860],{93860:(i,n,a)=>{a.d(n,{defineChain:()=>s.a,extractChain:()=>e});var s=a(44607);function e({chains:i,id:n}){return i.find((i=>i.id===n))}},44607:(i,n,a)=>{function s(i){return{formatters:void 0,fees:void 0,serializers:void 0,...i}}a.d(n,{a:()=>s})}}]);
+//# sourceMappingURL=3860.471f2fd5.js.map
